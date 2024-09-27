@@ -1,19 +1,31 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": "Sep 2021 - May 2025",
+            "cardTitle": "B.Eng, Engineering Systems Design (Business Analytics and Operations Design, Supply Chain and Logistics)",
+            "cardSubtitle":"Singapore University Of Technology and Design",
+            "cardDetailedText": ["Recipient of SUTD Global Merit Scholarship", "Co-founder of SUTD Swimming club", "SUTD Marketwatch Publicity Director"],
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/SUTD.png"
             }
         },
         {
-            "title": "Apr 20XX",
-            "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "title": "Jun 2022 - Aug 2022",
+            "cardTitle": "Summer Session, Economics",
+            "cardSubtitle":"University of California, Berkeley",
+            "cardDetailedText": "Introduction to Applied econometrics \n Introduction to Game Theory",
+            "icon" : {
+                "src": "images/education/UC-Berkeley.png"
+            }
+        },
+        {
+            "title": "Feb 2024 - Jun 2024",
+            "cardTitle": "Spring Exchange Semester",
+            "cardSubtitle":"Tecnologico de Monterrey (Monterrey campus)",
+            "cardDetailedText": ["Worked with Afirme seguro, a Mexican banking institution to ideate and prototype a mobile solution for their insurance arm", "Worked with Terniums, the leading steel company in Latin America to analyze and develop solution for their resources management systems"],
+            "icon" : {
+                "src": "images/education/monterrey.png"
+            }
         }
     ]
 }

@@ -1,33 +1,27 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Full-time",
+            "title": "Innovation Analyst",
+            "subtitle": "Julius Baer",
+            "workType": "Full-time contract",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Built and delivered an external trend monitoring tool for the Business Management team.",
+                "Developed an internal chatbot based on large language model to provide markets insights",
+                "Built data visualization for CEO pitch deck 2023 Asian private banker awards, helping Julius Baer in winning Best Private Bank (Pure Play) award",
+                "Research for sentiment-based quantitative analysis for the equity research team"
+
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "09/2023 – 02/2024"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Student Consultant",
+            "subtitle": "Rockwell Collins",
             "workType": "Internship",
             "workDescription": [
-                "Worked on abc."
+                "Conducted comprehensive trend analysis and forecasting to predict future demand patterns, proposing solutions to achieve a projected 25% increase in operational efficiency", "Built and developed a compelling pitch on our findings to present to group manager"
             ],
             "dateText": "01/20XX – 05/20XX"
-        },
-        {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
-            "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
         }
+        
     ]
 }

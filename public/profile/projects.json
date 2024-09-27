@@ -1,149 +1,149 @@
 {
     "projects" : [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "image" : "images/projects/Game of loans.png",
+            "title": "Game of Loans",
+            "bodyText": "- Built a game with **R shiny** connected to a **MySQL database** to teach a banking trainee skills in the industry in a low-risk manner with a fun and **interactive game**. \n - This game aims to teach the concepts of **risk management** and maximising the utility of **idle capital**.",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/Ashra9/MSO-2D-Bank"
                 },
                 {
-                    "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "text": "Youtube",
+                    "href": "https://youtu.be/DVDEx3qusFQ?si=HSp6TnL59q1EgrKM"
                 }
             ],
             "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
+                "SQL",
+                "R",
+                "Risk Management"
             ]
         },
         {
-            "image" : "images/projects/caaring-poster.png",
-            "title": "Caaring -  Cab Share App",
-            "bodyText": "- A Cab Sharing web app made using **Django** for **VIT** Students. People can create a new cab or request to join an existing cab.\n - Added User authentication and password reset using **SendGrid**.\n - Deployed on **heroku** using **gunicorn**.",
+            "image" : "images/projects/Julius Baer.JPEG",
+            "title": "Julius Baer x Tenity Intrapeneurship Competition, Winner",
+            "bodyText": "- Led a team of 3 that won 1st place in a 8 week intrepreneurship competition at Julius Baer Innovation lab. Winning a **1 year full time contract** to carry out the project. \n - Consulted the **business management team** and develop a prototype to help Julius Baer benchmark itself against its **competitors** and identify **new areas of growth**.\n - The sole presenter of the final pitch to the **C-suide leaders** of Julius Baer",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
-                },
-                {
-                    "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "text": "Linkedin",
+                    "href": "https://www.linkedin.com/posts/xing-jun-loy_intrapreneurship-wealthmanagement-technology-activity-7103031138662678528-PxPt?utm_source=share&utm_medium=member_desktop"
                 }
             ],
             "tags" : [
                 "Python",
-                "Django",
-                "BootStrap",
-                "SendGrid",
-                "Heroku",
-                "Gunicorn",
-                "VIT"
+                "FastAPI",
+                "Presentation",
+                "Leadership"    
             ]
         },
         {
-            "image" : "images/projects/quiet-hours-poster.jpg",
-            "title": "Quiet Hours App",
-            "bodyText": "- An Android App that **automatically silences** your phone during class hours, designed for **VITians**.\n - Option to select class **slots** and **custom time**.\n - Option to put on Vibrate instead of Silent.",
+            "image" : "images/projects/Rockwell Collins.JPEG",
+            "title": "Rockewell Collins consulting project",
+            "bodyText": "- Conducted comprehensive trend analysis and forecasting to predict future demand patterns, proposing solutions to achieve a projected 25% increase in operational efficiency\n - Built and developed a compelling pitch on our findings to present to group manager",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                    "text": "Presentation",
+                    "href": "https://www.canva.com/design/DAFf9ntc8og/sPSts7yQvmjxP-PrGRP8PQ/edit?utm_content=DAFf9ntc8og&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Alarm Manager",
-                "VIT"
+                "Data analytics",
+                "Operations Research",
+                "Presentation",
+                "Communication"
             ]
         },
         {
-            "title": "Secure Chat App",
-            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "title": "2023 SUTD Littlefields industries simulation challenge, 1st place",
+            "bodyText": "- Part of the team that secured first place in a competition with more than 100 participants. \n- Developed a strategy to optimize profits for a 150 days manufacturing service operations by balancing trade offs in machine purchase, order quantity, machine configuration and contract selection",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                    "text": "About",
+                    "href": "https://responsive.net/littlefield.html"
                 }
             ],
             "tags" : [
-                "Java",
-                "Android",
-                "Firebase",
-                "RSA"
+                "Supply Chain Management",
+                "Operations Research",
+                "Simulation"
             ]
         },
         {
-            "title": "MVVM Sample App",
-            "bodyText": "- An Android App that loads data from mock API and show in both **LinearLayout** and **GridLayout RecyclerView**.\n - Offline support using **Room** DB and **NetworkBoundResource**.\n - Uses the **MVVM** architecture.",
+            "title": "The analytics Edge Kaggle competition, 4th place",
+            "bodyText": "- Part of the team that secured 4th place in a competition with over 100 participants hosted by the 40.016 The Analytics Edge Module.\n - Developed an ensemble machine learning method by combining gradient boosting, random forest and multinomial logit models to predict customer safety bundle choices from a dataset of 113 parameters",
             "links": [
                 {
-                    "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
+                    "text": "Competition",
+                    "href": "https://www.kaggle.com/t/0755c4874c254505933d5814c078e82f"
                 }
             ],
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Room",
-                "Coroutines",
-                "Flow",
-                "Hilt-Dagger",
-                "NetworkBoundResource"
+                "Machine Learning",
+                "Data Science",
+                "Python",
+                "Neural Network",
+                "Gradient Boosting",
+                "Random Forest"
             ]
         },
         {
-            "title": "Feed List App",
-            "bodyText": "- An Android App that loads list of feeds from a **paginated** API and shows in a RecyclerView.\n - Uses the **MVVM** architecture.\n - Uses **Paging 3** library along with other Architecture Components.",
+            "title": "Crop price forecasting",
+            "bodyText": "- Built a multiple linear regression model using python libraries such as numpy, panda and Dataframes to analyze the relations between crop price and price of pesticide",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
+                    "href": "https://github.com/AxejayL/Crop-price-forecast"
+                },
+                {
+                    "text": "Youtube",
+                    "href": "https://youtu.be/l7TPjiyexI0?si=cBvsiS_XBUzvQpRM"
                 }
             ],
             "tags" : [
-                "Kotlin",
-                "Android",
-                "MVVM",
-                "Paging 3",
-                "Coroutines",
-                "Flow"
+                "Machine Learning",
+                "Data Analytics",
+                "Econometrics",
+                "Python",
+                "Multiple Linear Regression"
             ]
         },
         {
-            "title": "Task Tracker",
-            "bodyText": "- A simple Task Tracker web app made with **Angular 12**.\n - Uses **mock JSON server** to get, add, delete or update tasks.",
+            "title": "Prove-a-childrens-game",
+            "bodyText": "- A simple educational game built using Python to help children learn mathematics",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                    "href": "https://github.com/AxejayL/Prove-a-childrens-game"
+                },
+                {
+                    "text": "Youtube",
+                    "href": "https://youtu.be/swsvJwlsJW8?si=F627QvqfbWrpn9tY"
                 }
             ],
             "tags" : [
-                "TypeScript",
-                "Angular 12",
-                "JavaScript"
+                "Python",
+                "Mathematics"
             ]
         },
         {
-            "title": "Image Encryption/Decryption",
-            "bodyText": "- A Web App for Image Encryption and Decryption made in **Django**.\n - Uses **SDES** algorithm for encryption/decryption.",
+            "title": "Interactive Fountain",
+            "bodyText": "- To elevate the park going experience at Changi Business park, we designed an interative fountain using arduino and ultrasonic sensors",
             "links": [
                 {
-                    "text": "GitHub",
+                    "text": "Concept Video",
+                    "href": "https://youtu.be/pDW79EQ9RQE?si=Iu91xs8GJfo-31ad"
+                },
+                {
+                    "text": "Prototype demonstration",
                     "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
                 }
             ],
             "tags" : [
-                "Python",
-                "Django",
-                "SDES",
-                "Cryptography"
+                "Centrifugal force",
+                "Arduino",
+                "Design Thinking",
+                "Ultrasonic sensor"
             ]
         }
     ]
