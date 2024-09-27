@@ -7,8 +7,8 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
-  </React.StrictMode> // Removed the trailing comma here
+    <App /> {/* Make sure this line does not have a trailing comma */}
+  </React.StrictMode> // This line should not have a trailing comma either
 );
 
 // If you want to start measuring performance in your app, pass a function
