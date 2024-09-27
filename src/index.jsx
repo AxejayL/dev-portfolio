@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client'; // Use 'react-dom/client' for createRoot
+import ReactDOM from 'react-dom/client'; // Ensure this is correct
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
@@ -7,8 +7,8 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />,  // Added trailing comma here
-  </React.StrictMode>
+    <App />
+  </React.StrictMode> // Removed the trailing comma here
 );
 
 // If you want to start measuring performance in your app, pass a function
